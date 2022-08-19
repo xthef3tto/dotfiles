@@ -3,3 +3,7 @@ font:
     family: Hack
     style: Regular
   size: 16.5
+
+mouse_bindings:
+  - { mouse: Right,  action: Copy }
+
