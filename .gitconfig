@@ -1,6 +1,15 @@
 [user]
-	name = paul
-	email = paul
-
+  name = paul
+  email = paul
+[color]
+  ui = true
+[alias]
+  co = checkout
+  cp = cherry-pick
+  c = commit -m
+[core]
+  editor = vim
+[push]
+  default = simple
 [init]
-	defaultBranch = main
+  defaultBranch = main
