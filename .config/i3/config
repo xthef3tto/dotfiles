@@ -17,7 +17,7 @@ exec --no-startup-id ~/repos/scripts/get-wallpaper.sh
 exec --no-startup-id picom --backend xrender
 
 # start ssh agent
-exec --no-startup-id eval `ssh-agent`
+# exec --no-startup-id eval `ssh-agent`
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
