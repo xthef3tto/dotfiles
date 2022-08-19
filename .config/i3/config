@@ -16,6 +16,9 @@ exec --no-startup-id ~/repos/scripts/get-wallpaper.sh
 # start picom
 exec --no-startup-id picom --backend xrender
 
+# start greenclip
+exec --no-startup-id greenclip damon
+
 # start ssh agent
 # exec --no-startup-id eval `ssh-agent`
 
@@ -27,6 +30,9 @@ bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
+
+# start clipboard manager
+bindsym $mod+p exec rofi -modi "📋:greenclip print" -show "📋" -run-command '{cmd}' -font "hack 16"
 
 # start rofi (a program manager)
 bindsym $mod+d exec rofi -show drun -show-icons -font 'hack 16'  -display-drun '🗃️' -font "hack 16"
