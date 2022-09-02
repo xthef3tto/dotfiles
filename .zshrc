@@ -31,10 +31,8 @@ alias ll="exa -bghl -snew"
 alias top="htop"
 alias eZ="vim ~/.zshrc"
 alias eI="vim ~/.config/i3/config"
+alias yt-dl='docker run --rm -i -e PGID=$(id -g) -e PUID=$(id -u) -v "$(pwd)":/workdir:rw mikenye/youtube-dl'
 
 # start starship
 eval "$(starship init zsh)"
-
-# enable find-the-command
-source /usr/share/doc/find-the-command/ftc.zsh
 
