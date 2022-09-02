@@ -1,6 +1,16 @@
 {
-    "editor.fontFamily": "Hack",
-    "editor.fontSize": 20,
-    "editor.formatOnSave": true,
-    "editor.tabSize": 2
+  "editor.fontFamily": "Hack",
+  "editor.fontSize": 20,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 1,
+  "explorer.confirmDelete": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "python.formatting.provider": "black"
 }
