@@ -37,6 +37,9 @@ bindsym $mod+p exec rofi -modi "📋:greenclip print" -show "📋" -run-command 
 # start rofi (a program manager)
 bindsym $mod+d exec rofi -show drun -show-icons -font 'hack 16'  -display-drun '🗃️' -font "hack 16"
 
+# start flameshot gui
+bindsym $mod+Shift+s exec flameshot gui
+
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
