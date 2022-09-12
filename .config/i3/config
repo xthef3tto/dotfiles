@@ -17,7 +17,7 @@ exec --no-startup-id ~/repos/scripts/get-wallpaper.sh
 exec --no-startup-id picom --backend xrender
 
 # start greenclip
-exec --no-startup-id greenclip damon
+exec --no-startup-id greenclip daemon>/dev/null
 
 # start ssh agent
 # exec --no-startup-id eval `ssh-agent`
