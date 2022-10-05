@@ -1,7 +1,6 @@
 {
   "editor.fontFamily": "Hack",
   "editor.fontSize": 20,
-  "editor.formatOnSave": true,
   "editor.tabSize": 4,
   "workbench.iconTheme": "material-icon-theme",
   "window.zoomLevel": 1,
@@ -12,5 +11,15 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "editor.inlineSuggest.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "git.confirmSync": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
