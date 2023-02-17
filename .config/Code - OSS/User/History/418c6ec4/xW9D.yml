@@ -1,0 +1,105 @@
+version: "3.9"
+
+services:
+  immich-server:
+    container_name: immich_server
+    image: altran1502/immich-server:release
+    entrypoint: ["/bin/sh", "./start-server.sh"]
+    volumes:
+      - ${UPLOAD_LOCATION}:/usr/src/app/upload
+    env_file:
+      - stack.env
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - redis
+      - database
+    restart: unless-stopped
+
+  immich-microservices:
+    container_name: immich_microservices
+    image: altran1502/immich-server:release
+    entrypoint: ["/bin/sh", "./start-microservices.sh"]
+    volumes:
+      - ${UPLOAD_LOCATION}:/usr/src/app/upload
+    env_file:
+      - stack.env
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - redis
+      - database
+    restart: unless-stopped
+
+  immich-machine-learning:
+    container_name: immich_machine_learning
+    image: altran1502/immich-machine-learning:release
+    entrypoint: ["/bin/sh", "./entrypoint.sh"]
+    volumes:
+      - ${UPLOAD_LOCATION}:/usr/src/app/upload
+    env_file:
+      - stack.env
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - database
+    restart: unless-stopped
+
+  immich-web:
+    container_name: immich_web
+    image: altran1502/immich-web:release
+    entrypoint: ["/bin/sh", "./entrypoint.sh"]
+    env_file:
+      - stack.env
+    restart: unless-stopped
+
+  redis:
+    container_name: immich_redis
+    image: redis:alpine
+    restart: always
+
+  database:
+    container_name: immich_postgres
+    image: postgres:latest
+    env_file:
+      - stack.env
+    environment:
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_DB: ${DB_DATABASE_NAME}
+      PG_DATA: /var/lib/postgresql/data
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  immich-proxy:
+    container_name: immich_proxy
+    image: altran1502/immich-proxy:release
+    environment:
+      # Make sure these values get passed through from the env file
+      - IMMICH_SERVER_URL
+      - IMMICH_WEB_URL
+    ports:
+      - 2283:8080
+    logging:
+      driver: none
+    depends_on:
+      - immich-server
+    restart: unless-stopped
+    networks:
+      - default
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.immich.entrypoint=websecure"
+      - "traefik.http.routers.immich.rule=Host(`immich.pdocker.local`)"
+      - "traefik.http.routers.immich.tls=true"
+      - "traefik.http.routers.immich.tls.certresolver=acme"
+      - "traefik.http.routers.immich.services=immich"
+      - "traefik.http.services.immich.loadbalancer.server.port=8080"
+
+volumes:
+  pgdata:
+networks:
+  traefik:
+    external: true

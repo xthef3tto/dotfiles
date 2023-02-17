@@ -25,6 +25,16 @@ function ls()
   fi
 }
 
+# Backup and Restore Docker Volumes
+function backupDockerVolume()
+{
+  docker run --rm -v $1:/volData -v $(pwd):/backup ubuntu tar cvf /backup/$2.tar /volData
+}
+function restoreDockerVolume()
+{
+  docker run --rm -v $1:/volData -v $(pwd):/restore ubuntu tar xvf /restore/$2.tar -C /volData --strip 1
+}
+
 # alias commands
 alias l="exa -bghl -snew"
 alias ll="exa -bghl -snew"
@@ -32,6 +42,9 @@ alias top="htop"
 alias eZ="vim ~/.zshrc"
 alias eI="vim ~/.config/i3/config"
 alias yt-dl='docker run --rm -i -e PGID=$(id -g) -e PUID=$(id -u) -v "$(pwd)":/workdir:rw mikenye/youtube-dl'
+
+# ssh key management gedöns
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 
 # start starship
 eval "$(starship init zsh)"

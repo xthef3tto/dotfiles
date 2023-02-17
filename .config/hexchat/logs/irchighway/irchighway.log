@@ -1,0 +1,233 @@
+**** BEGIN LOGGING AT Wed Jan  4 15:26:46 2023
+
+Jan 04 15:26:46 *	*** Looking up your hostname...
+Jan 04 15:26:46 *	*** Could not resolve your hostname: Domain name not found; using your IP address (80.156.176.182) instead.
+Jan 04 15:26:46 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Jan 04 15:26:46 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Jan 04 15:26:46 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Jan 04 15:26:48 *	Welcome to irchighway!
+**** ENDING LOGGING AT Wed Jan  4 15:26:48 2023
+
+**** BEGIN LOGGING AT Wed Jan  4 15:26:48 2023
+
+Jan 04 15:26:48 *	Welcome to the irchighway IRC Network paul!paul@80.156.176.182
+Jan 04 15:26:48 *	Your host is ceres.dk.eu.irchighway.net, running version InspIRCd-2.0
+Jan 04 15:26:48 *	This server was created 11:19:54 Jan  7 2018
+Jan 04 15:26:48 *	ceres.dk.eu.irchighway.net InspIRCd-2.0 BIRSWghiorswx ACDIMNORSTabcdehiklmnopqrstvz Iabdehkloqv
+Jan 04 15:26:48 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=Ibe,k,dl,ACDMNORSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ACNORSTUcjmz FNC INVEX=I :are supported by this server
+Jan 04 15:26:48 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=irchighway NICKLEN=31 PREFIX=(qaohv)~&@%+ SILENCE=32 SSL=89.221.171.12:6697 :are supported by this server
+Jan 04 15:26:48 *	STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+Jan 04 15:26:48 *	618ABZ86A :your unique ID
+Jan 04 15:26:48 *	ceres.dk.eu.irchighway.net message of the day
+Jan 04 15:26:48 *	- no bottler clients please
+Jan 04 15:26:48 *	- -
+Jan 04 15:26:48 *	- The staff welcomes you at ceres.dk.eu.irchighway.net - IRCHighway Client Server
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- This server is part of the the IRCHighWay network. If you do not disconnect
+Jan 04 15:26:48 *	- right now, you agree with this network's Acceptable Use Policy (AUP)
+Jan 04 15:26:48 *	- which can be found at the following URL:
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- http://www.irchighway.net/rules
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- By connecting to this network you agree to have your host scanned
+Jan 04 15:26:48 *	- for open proxies.
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- For more information about the IRCHighWay network, such as our Privacy Policy,
+Jan 04 15:26:48 *	- you are welcome to visit our main website at http://www.irchighway.net/
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- Server Admin:       JH <email: jh@irchighway.net>      
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- Location : Denmark EU
+Jan 04 15:26:48 *	- Ports : 6660 to 6669 and 7000, as well as 6697 & 9999 for SSL.
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- We do not, and never will hire IRCops. So don't bother asking.
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- Bottler bots, Flood bots, Irc-Ork bots, Spam bots
+Jan 04 15:26:48 *	- and all other abusive Bots will be Banned.
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- Non-abusive bots are tolerated, *NOT* supported.
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- We reserve the right to disconnect/ban any user from this server at any time
+Jan 04 15:26:48 *	- for any reason. If you were banned (akilled) and you think that it was
+Jan 04 15:26:48 *	- unjustified, feel free to email banned [at] irchighway.net. The ban will be
+Jan 04 15:26:48 *	- reviewed, and may (or may not) be removed.
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- You might want to have a look at these channels:
+Jan 04 15:26:48 *	-     #irchighway   - for general chat
+Jan 04 15:26:48 *	-     #help         - official help Channel
+Jan 04 15:26:48 *	-     #abuse        - for reporting abusive users
+Jan 04 15:26:48 *	-     #vhost        - for vHost registration
+Jan 04 15:26:48 *	-     #script       - for mIRC scripting help
+Jan 04 15:26:48 *	- 
+Jan 04 15:26:48 *	- Enjoy your stay!
+Jan 04 15:26:48 *	End of message of the day.
+Jan 04 15:26:48 *	There are 825 users and 519 invisible on 17 servers
+Jan 04 15:26:48 *	18 :operator(s) online
+Jan 04 15:26:48 *	577 :channels formed
+Jan 04 15:26:48 *	I have 50 clients and 1 servers
+Jan 04 15:26:48 *	Current Local Users: 50  Max: 162
+Jan 04 15:26:48 *	Current Global Users: 1344  Max: 1729
+Jan 04 15:26:48 *	ihw-p9l.8d5.156.80.IP :is now your displayed host
+Jan 04 15:26:48 *	paul sets mode +x on paul
+Jan 04 15:26:48 *	*** You are connected using SSL cipher "ECDHE-RSA-AES-256-GCM-AEAD"
+Jan 04 15:33:12 Sysinfo plugin unloaded
+Jan 04 15:33:12 Perl interface unloaded
+**** ENDING LOGGING AT Wed Jan  4 15:33:12 2023
+
+**** BEGIN LOGGING AT Tue Feb 14 11:42:27 2023
+
+Feb 14 11:42:27 *	Welcome to the irchighway IRC Network paul!paul@80.156.176.182
+Feb 14 11:42:27 *	Your host is data.de.eu.irchighway.net, running version InspIRCd-2.0
+Feb 14 11:42:27 *	This server was created 10:47:18 Jan 14 2018
+Feb 14 11:42:27 *	data.de.eu.irchighway.net InspIRCd-2.0 BIRSWghiorswx ACDIMNORSTabcdehiklmnopqrstvz Iabdehkloqv
+Feb 14 11:42:27 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=Ibe,k,dl,ACDMNORSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ACNORSTUcjmz FNC INVEX=I :are supported by this server
+Feb 14 11:42:27 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=irchighway NICKLEN=31 PREFIX=(qaohv)~&@%+ SILENCE=32 SSL=78.47.49.63:6697 :are supported by this server
+Feb 14 11:42:27 *	STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+Feb 14 11:42:27 *	404AAWJHJ :your unique ID
+Feb 14 11:42:27 *	data.de.eu.irchighway.net message of the day
+Feb 14 11:42:27 *	- -
+Feb 14 11:42:27 *	- no bottler clients please
+Feb 14 11:42:27 *	- -
+Feb 14 11:42:27 *	- ::::: data.de.eu.irchighway.net ::::::::::::::::::::::::::::::::::
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- Welcome to the IRCHighWay network!
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- You are connected to data.de.eu.irchighway.net
+Feb 14 11:42:27 *	- Location        : Falkenstein, Germany
+Feb 14 11:42:27 *	- Ports           : 6660-6669, 7000
+Feb 14 11:42:27 *	- SSL-Ports       : 6697, 9999
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- ::::: Operators ::::::::::::::::::::::::::::::::::::::::::::::::::
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- Server Admin    : MH  <MH [at] irchighway.net>
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- ::::: Disclaimer :::::::::::::::::::::::::::::::::::::::::::::::::
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- The use of our server and network is a privilege, not a right.
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- We reserve the right to deny access to anyone for any reason. If 
+Feb 14 11:42:27 *	- you were akilled and you think that it was unjustified, feel free 
+Feb 14 11:42:27 *	- to appeal to banned [at] irchighway.net.
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- The network operators take no responsibility whatsoever for the 
+Feb 14 11:42:27 *	- opinions expressed or the actions taken by users.
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- By connecting to this network you agree to have your host scanned 
+Feb 14 11:42:27 *	- for open proxies.
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- ::::: Rules ::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- This server is part of the the IRCHighWay network. Continued use 
+Feb 14 11:42:27 *	- of our services implies that you agree with our Acceptable Use 
+Feb 14 11:42:27 *	- Policy (AUP) which can be found at the following URL: 
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- http://www.irchighway.net/rules
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- Bottler, Irc-Ork, XDCC-Catcher and similar clients are not 
+Feb 14 11:42:27 *	- permitted.
+Feb 14 11:42:27 *	- Non-abusive bots are tolerated, *NOT* supported.
+Feb 14 11:42:27 *	- We do not and never will hire IRCops. So don't bother asking.
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- We will not tolerate:
+Feb 14 11:42:27 *	-  * Flooding
+Feb 14 11:42:27 *	-  * Spamming 
+Feb 14 11:42:27 *	-  * Channel or nick takeovers
+Feb 14 11:42:27 *	-  * Distribution of malware (trojans etc.)
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- For more information about the IRCHighWay network, such as our 
+Feb 14 11:42:27 *	- Privacy Policy, you are welcome to visit our website at 
+Feb 14 11:42:27 *	- http://www.irchighway.net/ :)
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- ::::: Official Channels ::::::::::::::::::::::::::::::::::::::::::
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- You might want to have a look at these channels:
+Feb 14 11:42:27 *	-      #irchighway   - for general chat
+Feb 14 11:42:27 *	-      #help         - official help channel
+Feb 14 11:42:27 *	-      #abuse        - to report abusive users
+Feb 14 11:42:27 *	-      #vhost        - for virtual host registration
+Feb 14 11:42:27 *	- 
+Feb 14 11:42:27 *	- Enjoy your stay!
+Feb 14 11:42:27 *	End of message of the day.
+Feb 14 11:42:27 *	There are 770 users and 517 invisible on 17 servers
+Feb 14 11:42:27 *	18 :operator(s) online
+Feb 14 11:42:27 *	589 :channels formed
+Feb 14 11:42:27 *	I have 64 clients and 1 servers
+Feb 14 11:42:27 *	Current Local Users: 64  Max: 104
+Feb 14 11:42:27 *	Current Global Users: 1287  Max: 2304
+Feb 14 11:42:27 *	ihw-p9l.8d5.156.80.IP :is now your displayed host
+Feb 14 11:42:27 *	paul sets mode +x on paul
+Feb 14 11:42:27 *	*** You are connected using SSL cipher "RSA-AES-256-CBC-SHA256"
+Feb 14 11:43:51 Checksum plugin unloaded
+Feb 14 11:43:51 Sysinfo plugin unloaded
+Feb 14 11:43:51 Perl interface unloaded
+**** ENDING LOGGING AT Tue Feb 14 11:43:51 2023
+
+**** BEGIN LOGGING AT Tue Feb 14 13:30:30 2023
+
+Feb 14 13:30:30 *	Welcome to the irchighway IRC Network paul!paul@80.156.176.182
+Feb 14 13:30:30 *	Your host is ceres.dk.eu.irchighway.net, running version InspIRCd-2.0
+Feb 14 13:30:30 *	This server was created 11:19:54 Jan  7 2018
+Feb 14 13:30:30 *	ceres.dk.eu.irchighway.net InspIRCd-2.0 BIRSWghiorswx ACDIMNORSTabcdehiklmnopqrstvz Iabdehkloqv
+Feb 14 13:30:30 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=Ibe,k,dl,ACDMNORSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ACNORSTUcjmz FNC INVEX=I :are supported by this server
+Feb 14 13:30:30 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=irchighway NICKLEN=31 PREFIX=(qaohv)~&@%+ SILENCE=32 SSL=89.221.171.12:6697 :are supported by this server
+Feb 14 13:30:30 *	STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+Feb 14 13:30:30 *	618AB2EPP :your unique ID
+Feb 14 13:30:30 *	ceres.dk.eu.irchighway.net message of the day
+Feb 14 13:30:30 *	- no bottler clients please
+Feb 14 13:30:30 *	- -
+Feb 14 13:30:30 *	- The staff welcomes you at ceres.dk.eu.irchighway.net - IRCHighway Client Server
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- This server is part of the the IRCHighWay network. If you do not disconnect
+Feb 14 13:30:30 *	- right now, you agree with this network's Acceptable Use Policy (AUP)
+Feb 14 13:30:30 *	- which can be found at the following URL:
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- http://www.irchighway.net/rules
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- By connecting to this network you agree to have your host scanned
+Feb 14 13:30:30 *	- for open proxies.
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- For more information about the IRCHighWay network, such as our Privacy Policy,
+Feb 14 13:30:30 *	- you are welcome to visit our main website at http://www.irchighway.net/
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- Server Admin:       JH <email: jh@irchighway.net>      
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- Location : Denmark EU
+Feb 14 13:30:30 *	- Ports : 6660 to 6669 and 7000, as well as 6697 & 9999 for SSL.
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- We do not, and never will hire IRCops. So don't bother asking.
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- Bottler bots, Flood bots, Irc-Ork bots, Spam bots
+Feb 14 13:30:30 *	- and all other abusive Bots will be Banned.
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- Non-abusive bots are tolerated, *NOT* supported.
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- We reserve the right to disconnect/ban any user from this server at any time
+Feb 14 13:30:30 *	- for any reason. If you were banned (akilled) and you think that it was
+Feb 14 13:30:30 *	- unjustified, feel free to email banned [at] irchighway.net. The ban will be
+Feb 14 13:30:30 *	- reviewed, and may (or may not) be removed.
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- You might want to have a look at these channels:
+Feb 14 13:30:30 *	-     #irchighway   - for general chat
+Feb 14 13:30:30 *	-     #help         - official help Channel
+Feb 14 13:30:30 *	-     #abuse        - for reporting abusive users
+Feb 14 13:30:30 *	-     #vhost        - for vHost registration
+Feb 14 13:30:30 *	-     #script       - for mIRC scripting help
+Feb 14 13:30:30 *	- 
+Feb 14 13:30:30 *	- Enjoy your stay!
+Feb 14 13:30:30 *	End of message of the day.
+Feb 14 13:30:30 *	There are 791 users and 517 invisible on 17 servers
+Feb 14 13:30:30 *	18 :operator(s) online
+Feb 14 13:30:30 *	592 :channels formed
+Feb 14 13:30:30 *	I have 42 clients and 1 servers
+Feb 14 13:30:30 *	Current Local Users: 42  Max: 162
+Feb 14 13:30:30 *	Current Global Users: 1308  Max: 1729
+Feb 14 13:30:30 *	ihw-p9l.8d5.156.80.IP :is now your displayed host
+Feb 14 13:30:30 *	paul sets mode +x on paul
+Feb 14 13:30:30 *	*** You are connected using SSL cipher "ECDHE-RSA-AES-256-GCM-AEAD"
+Feb 14 13:41:31 *	ebooks :Invalid channel name
+Feb 14 13:42:31 Checksum plugin unloaded
+Feb 14 13:42:31 Sysinfo plugin unloaded
+Feb 14 13:42:31 Perl interface unloaded
+**** ENDING LOGGING AT Tue Feb 14 13:42:31 2023
+

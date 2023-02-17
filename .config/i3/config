@@ -4,12 +4,6 @@ set $mod Mod4
 # i3 font
 font pango:hack 12
 
-# autostart network manager
-exec --no-startup-id nm-applet
-
-# autostart vbox extension
-exec --no-startup-id /usr/bin/VBoxClient-all
-
 # get wallpaper on startup
 exec --no-startup-id ~/repos/scripts/get-wallpaper.sh
 
@@ -19,14 +13,14 @@ exec --no-startup-id picom --backend xrender
 # start greenclip
 exec --no-startup-id greenclip daemon>/dev/null
 
-# start ssh agent
-# exec --no-startup-id eval `ssh-agent`
+# start udiskie
+exec --no-startup-id udiskie -N
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec LIBGL_ALWAYS_SOFTWARE=1 alacritty
+bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -39,6 +33,9 @@ bindsym $mod+d exec rofi -show drun -show-icons -font 'hack 16'  -display-drun '
 
 # start flameshot gui
 bindsym $mod+Shift+s exec flameshot gui
+
+# start thunar
+bindsym $mod+e exec thunar
 
 # change focus
 bindsym $mod+j focus left
@@ -76,7 +73,7 @@ bindsym $mod+f fullscreen toggle
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
-bindsym $mod+e layout toggle split
+bindsym $mod+q layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -158,6 +155,8 @@ mode "resize" {
         bindsym $mod+r mode "default"
 }
 
+floating_maximum_size 1000x1000
+
 bindsym $mod+r mode "resize"
 
 #navigate workspaces next / previous
@@ -177,4 +176,3 @@ bar {
 
 for_window [class=".*"] border pixel 0
 gaps inner 5
-gaps outer 0

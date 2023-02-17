@@ -1,0 +1,7 @@
+[Trace 15:25:40.054] VsCodeClientWorkspace: TextDocument.onDidOpen: untitled:Untitled-1
+[Trace 15:25:40.056] VsCodeClientWorkspace: TextDocument.onDidChanceContent: untitled:Untitled-1
+[Trace 15:25:40.057] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 15:25:40.065] LinkProvider: compute - untitled:Untitled-1
+[Trace 15:25:40.067] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 15:25:40.268] MdFoldingProvider: provideFoldingRanges — untitled:Untitled-1 2
+[Debug 15:25:40.269] TableOfContentsProvider: create - untitled:Untitled-1

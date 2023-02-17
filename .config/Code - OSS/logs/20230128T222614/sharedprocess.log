@@ -1,0 +1,14 @@
+2023-01-28 22:26:16.977 [info] Starting worker process with pid 3024 (type: fileWatcher, window: 1).
+2023-01-28 22:26:19.548 [info] Getting Manifest... ms-python.python
+2023-01-28 22:26:20.501 [info] Installing extension: ms-python.python
+2023-01-28 22:26:20.895 [info] Getting Manifest... ms-python.isort
+2023-01-28 22:26:21.479 [info] Installing extension: ms-python.isort ms-python.python
+2023-01-28 22:26:28.152 [info] Extracted extension to /home/paul/.vscode-oss/extensions/.429f236c-2145-4c8d-bcd3-02b97c736d7f: ms-python.python
+2023-01-28 22:26:28.170 [info] Renamed to /home/paul/.vscode-oss/extensions/ms-python.python-2022.20.2-universal
+2023-01-28 22:26:28.176 [info] Extracting completed. ms-python.python
+2023-01-28 22:26:28.259 [info] Marked extension as uninstalled ms-python.python-2022.16.1-universal
+2023-01-28 22:26:29.102 [info] Extracted extension to /home/paul/.vscode-oss/extensions/.d4f61815-75d8-40ea-a906-ee4538aa387d: ms-python.isort
+2023-01-28 22:26:29.105 [info] Renamed to /home/paul/.vscode-oss/extensions/ms-python.isort-2022.8.0-universal
+2023-01-28 22:26:29.107 [info] Extracting completed. ms-python.isort
+2023-01-28 22:26:29.114 [info] Extension installed successfully: ms-python.python
+2023-01-28 22:26:29.114 [info] Extension installed successfully: ms-python.isort

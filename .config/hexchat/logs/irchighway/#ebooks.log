@@ -1,0 +1,298 @@
+**** BEGIN LOGGING AT Wed Jan  4 15:26:55 2023
+
+Jan 04 15:26:55 *	Now talking on #ebooks
+Jan 04 15:26:55 *	Topic for #ebooks is: No textbooks here, say @TEXTBOOKS for secret textbook site - You need DCC, so browser-based IRC clients won't work - New books: !trainpacks or @Oatmeal - Look for books with @Search - FAQ at http://ebooks.byethost6.com - Send new books to Oatmeal - Using mIRC? Type @sbclient
+Jan 04 15:26:55 *	Topic for #ebooks set by Sophist-UK!Sophist@sophist.vhost (Sun Dec 18 18:31:07 2022)
+Jan 04 15:26:56 -ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
+Jan 04 15:27:05 <DeathCookie>	 Type: @DeathCookie For My List Of: 88,316 Files  Slots: 10/10  Queued: 0  Speed: 0cps  Next: NOW  Served: 77,354  List: Jan 3rd  Search: ON  Mode: Servers Priority 
+Jan 04 15:27:14 <ddks>	@search Alex Stewart
+Jan 04 15:27:16 <AlternaServ>	Alternative books, articles, docs, etc. Type: @AlternaServ For My List Of: 2,159 Files  Slots: 8/8  Queued: 0  Speed: 0cps  Next: NOW  Served: 1  List: Jan 3rd  Search: ON  Mode: Normal 
+Jan 04 15:27:18 <paul>	@Search inferno dan brown
+Jan 04 15:27:18 -Search-	<<SearchBot>> Your search for "inferno dan brown" has been accepted and put into searching queue. Please wait...
+Jan 04 15:27:21 *	Received a CTCP SLOTS 8 8 NOW 0 999 0 2159 14190090861 0 1672793399 11144 OmenServe v2.74 from AlternaServ (to #ebooks)
+Jan 04 15:27:23 -Search-	<<SearchBot>> Your search for "inferno dan brown" returned 35 matches. Sending results to you as SearchBot_results_for_ inferno dan brown.txt.zip. Search took 3.95 seconds.
+Jan 04 15:27:24 -Search-	DCC Send SearchBot_results_for_ inferno dan brown.txt.zip (50.25.20.208)
+Jan 04 15:27:24 *	Search has offered 'SearchBot_results_for__inferno_dan_brown.txt.zip' (1297 bytes)
+Jan 04 15:27:31 *	DCC RECV connection established to Search [50.25.20.208:4856]
+Jan 04 15:27:32 SHA-256 checksum for SearchBot_results_for__inferno_dan_brown.txt.zip (local): 2f5130ca2d966a40468433696102dfc3e89f825534987f9d28fec4109e6a5788
+Jan 04 15:27:32 *	DCC RECV 'SearchBot_results_for__inferno_dan_brown.txt.zip' from Search complete [1297 cps]
+Jan 04 15:27:34 *	gilcschmidt has quit (Client exited)
+Jan 04 15:28:02 *	anothercleverdisguise has quit (Ping timeout: 121 seconds)
+Jan 04 15:28:09 *	mauno (Username@ihw-15ar02.kortex.jyu.fi) has joined
+Jan 04 15:28:12 <mauno>	@search In the Land of Pain
+Jan 04 15:28:14 <ddks>	@search Les Johnson
+Jan 04 15:28:15 *	Jack (jaaaaaaack@ihw-mvq.5go.145.1.IP) has joined
+Jan 04 15:28:16 <Sophist-UK>	@searchook Philip Pullman clockwork
+Jan 04 15:28:19 <cocoaraj1>	@find gay bar why we went out
+Jan 04 15:28:23 <Ascalon>	@search natural language processing
+Jan 04 15:28:25 *	silkysilkysilky (vecovo7937@ihw-5tc.eq1.38.151.IP) has joined
+Jan 04 15:28:27 <resh2>	!DeathCookie Jae - A Purrfect Gift.epub  ::INFO:: 308.9KB
+Jan 04 15:28:31 <cocoaraj1>	@search gay bar why we went out
+Jan 04 15:28:33 <Jack>	@search hyperfocus
+Jan 04 15:28:36 *	fishwithnoname has quit (Quit: Leaving)
+Jan 04 15:28:37 <Jab>	@search notebook
+Jan 04 15:28:40 *	Quint (Quinnn@ihw-6nq.n2a.65.185.IP) has left
+Jan 04 15:28:41 *	fishwithnoname (fishwithnon@ihw-kr308f.fios.verizon.net) has joined
+Jan 04 15:28:44 <resh2>	!DeathCookie Jae - A Purrfect Gift.epub  ::INFO:: 308.9KB
+Jan 04 15:28:45 *	pg48195 (pg48195@ihw-e19njc.mi.comcast.net) has joined
+Jan 04 15:28:46 *	pg48195 has quit (Quit: )
+Jan 04 15:28:49 *	pg48195 (pg48195@ihw-e19njc.mi.comcast.net) has joined
+Jan 04 15:28:50 <Sophist-UK>	!Oatmeal Daemon Voices - Philip Pullman.epub
+Jan 04 15:28:52 *	cocoaraj1 has quit (Connection closed)
+Jan 04 15:28:59 *	mauno has quit (Quit: Going offline, see ya! (www.adiirc.com))
+Jan 04 15:29:02 *	yetanothercleverdisguise has quit (Ping timeout: 121 seconds)
+Jan 04 15:29:02 <pg48195>	!trainpacks
+Jan 04 15:29:02 *	mallory88 (mallory88@ihw-u1evjp.dsl.as9105.com) has joined
+Jan 04 15:29:03 <Sophist-UK>	!Ook Philip Pullman - Clockwork- or All Wound Up (image pdf).rar
+Jan 04 15:29:08 <Jab>	@search the notebook
+Jan 04 15:29:19 <Ascalon>	!DV8 Foundations of Statistical Natural Language Processing - Christopher D Manning (PDF).rar  ::INFO:: 6.3MB
+Jan 04 15:29:21 <ddks>	@search Stephanie Osborn
+Jan 04 15:29:28 <silkysilkysilky>	@search gustav hasford
+Jan 04 15:29:28 <ddks>	@search Owen Stanley
+Jan 04 15:29:30 <Oatmeal>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@50.25.20.208/ (no ebooks, just ebook utilities and programs)
+Jan 04 15:29:30 <Oatmeal>	@ To request a book, audiobook or anything else use https://noeyes.space
+Jan 04 15:29:32 <resh2>	!DeathCookie Jae Jae - The Subway.epub  ::INFO:: 437.2KB
+Jan 04 15:29:37 *	gilcschmidt (gilcschmidt@ihw-v8a.f03.48.24.IP) has joined
+Jan 04 15:29:41 <sneakasnack>	@search cbr
+Jan 04 15:29:51 <gilcschmidt>	@search Jack Johnson
+Jan 04 15:30:14 <Dumbledore>	Type @Dumbledore for my list of eBooks.
+Jan 04 15:30:16 <peapod>	� Type: @peapod For My List Of: 597,619 Files � Slots: 20 � Queued: 0 � Speed: 395 KB/Sec � Next: NOW � Served: 123,431 � List: 01-02-2023 � Search: ON � Mode: Ser FWServerBot
+Jan 04 15:30:16 <silkysilkysilky>	!Dumbledore Gustav Hasford - The Short-Timers (Full-Metal Jacket).epub
+Jan 04 15:30:18 *	Jack has quit (Quit: Igloo IRC: https://iglooirc.com)
+Jan 04 15:30:21 *	Received a CTCP SLOTS 20 20 NOW 0 999 0 597619 1579423077518 1 1672674214 405297 FWServer ver 2071 from peapod (to #ebooks)
+Jan 04 15:30:30 <ddks>	!Ook Owen Stanley - The Missionaries (epub).rar
+Jan 04 15:30:35 *	frap_gadz (frap_gadz@ihw-di81cc.as13285.net) has joined
+Jan 04 15:30:37 *	jeff has quit (Ping timeout: 121 seconds)
+Jan 04 15:30:42 <ddks>	!Ook Owen Stanley - The Promethean (epub).rar
+Jan 04 15:30:44 <silkysilkysilky>	!Oatmeal Gustav Hasford - The Short-Timers (Full-Metal Jacket).epub
+Jan 04 15:30:45 *	toorbook has quit (Quit: Quit)
+Jan 04 15:30:46 *	gilcschmidt has quit (Client exited)
+Jan 04 15:30:47 <frap_gadz>	@search putin's war on everybody
+Jan 04 15:30:48 *	JOC (kvirc@ihw-k85eu7.cable.virginm.net) has joined
+Jan 04 15:30:55 <QuietSilence>	Type @QuietSilence to get the list of 85,866 files (237.48 GB). Updated on 09-24-2022 07:35:54. Description: 
+Jan 04 15:30:59 <JOC>	!Horla Bob Mortimer - The Satsuma Complex.epub
+Jan 04 15:31:03 <frap_gadz>	@search putins war on everybody
+Jan 04 15:31:22 <Jab>	!pondering Nicholas Sparks - [Calhoun Family Saga 01] - The Notebook (v4.0) (epub).rar
+Jan 04 15:31:28 <DV8>	± Type: @DV8 For My List Of: 298,963 Files ± Slots: 2/2 ± Queued: 0 ± Speed: 0cps ± Next: NOW ± Served: 441,929 ± List: Jul 7th ± Search: ON ± Mode: Servers Priority ±
+Jan 04 15:31:30 <JOC>	!Oatmeal Bob Mortimer - The Satsuma Complex.epub
+Jan 04 15:31:33 *	Received a CTCP SLOTS 2 2 NOW 0 999 0 298963 532881602143 1 1657228295 1733164 OmenServe v2.71 from DV8 (to #ebooks)
+Jan 04 15:31:37 <resh2>	!Dumbledore Kelli Jae Baeli - As You Were (FF).epub
+Jan 04 15:31:43 <frap_gadz>	@search Keir Giles
+Jan 04 15:31:53 *	frap_gadz has quit (Quit: Leaving)
+Jan 04 15:31:55 <ddks>	@search Michael Z. Williamson
+Jan 04 15:31:56 <JOC>	!Firebound ]H06X09I26IkA[ Bob Mortimer - And Away__.epub
+Jan 04 15:31:59 <mrgmc2u>	!peapod Noam Chomsky - Understanding Power- The Indispensable Chomsky (mobi).rar
+Jan 04 15:32:05 <DeathCookie>	 Type: @DeathCookie For My List Of: 88,316 Files  Slots: 10/10  Queued: 0  Speed: 0cps  Next: NOW  Served: 77,357  List: Jan 3rd  Search: ON  Mode: Servers Priority 
+Jan 04 15:32:09 *	Cinnamon has quit (Ping timeout: 121 seconds)
+Jan 04 15:32:13 <silkysilkysilky>	@search douglas stuart
+Jan 04 15:32:14 *	Mohn (IceChat7@ihw-a74.nf0.239.173.IP) has joined
+Jan 04 15:32:17 <JOC>	!Dumbledore Bob Mortimer - And Away....epub
+Jan 04 15:32:17 *	corin (corin@ihw-ocr.ils.12.72.IP) has joined
+Jan 04 15:32:20 <Jab>	!Oatmeal Nicholas Sparks - (Calhoun Family Saga 01) - The Notebook (v4.0).epub
+Jan 04 15:32:29 *	mr1602ed (mr1602ed@ihw-ov6.mvd.70.146.IP) has joined
+Jan 04 15:32:32 *	resh2 has quit (Quit: Going offline, see ya! (www.adiirc.com))
+Jan 04 15:32:35 <Mohn>	@search Larry Katz
+Jan 04 15:32:47 <mr1602ed>	!trainpacks
+Jan 04 15:32:58 *	pirates has quit (Ping timeout: 121 seconds)
+Jan 04 15:33:12 Checksum plugin unloaded
+Jan 04 15:33:12 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Wed Jan  4 15:33:12 2023
+
+**** BEGIN LOGGING AT Tue Feb 14 11:42:35 2023
+
+Feb 14 11:42:35 *	Now talking on #ebooks
+Feb 14 11:42:35 *	Topic for #ebooks is: No textbooks here, say @TEXTBOOKS for secret textbook site - You need DCC, so browser-based IRC clients won't work - New books: !trainpacks or @Oatmeal - Look for books with @Search - FAQ at http://ebooks.byethost6.com - Send new books to Oatmeal - Using mIRC? Type @sbclient
+Feb 14 11:42:35 *	Topic for #ebooks set by Sophist-UK!Sophist@sophist.vhost (Sun Dec 18 18:31:07 2022)
+Feb 14 11:42:35 -ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
+Feb 14 11:42:36 <Johnson>	@search into the odd 
+Feb 14 11:42:45 <paul>	@search ansible for devops
+Feb 14 11:42:46 *	WorstNickEver (WorstNickEv@ihw-3g8.f51.56.172.IP) has joined
+Feb 14 11:42:49 <Lini>	@searchook liz hedgecock
+Feb 14 11:42:58 <persephonie>	!peapod Sarah M Eden - [Longing for Home 06] - Choices of the Heart.epub
+Feb 14 11:42:58 <WorstNickEver>	@search Eleanor Janega
+Feb 14 11:43:01 *	Johnson has quit (Quit: The greatest trick the devil ever pulled was convincing the world he did not exist. And like that... he is gone.)
+Feb 14 11:43:16 *	Johnson (BoB@ihw-8km.fij.107.103.IP) has joined
+Feb 14 11:43:22 <Lini>	!Oatmeal Liz Hedgecock - [Maisie Frobisher Mystery 01] - All at Sea.epub 
+Feb 14 11:43:29 *	bengardnersboat has quit (Ping timeout: 121 seconds)
+Feb 14 11:43:33 <peapod>	� Type: @peapod For My List Of: 605,118 Files � Slots: 20 � Queued: 0 � Speed: 646 KB/Sec � Next: NOW � Served: 131,680 � List: 02-12-2023 � Search: ON � Mode: Ser FWServerBot
+Feb 14 11:43:34 *	illama has quit (Ping timeout: 121 seconds)
+Feb 14 11:43:38 *	Received a CTCP SLOTS 20 20 NOW 0 999 0 605118 1605898773500 1 1676220610 269607 FWServer ver 2071 from peapod (to #ebooks)
+Feb 14 11:43:51 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Tue Feb 14 11:43:51 2023
+
+**** BEGIN LOGGING AT Tue Feb 14 13:30:37 2023
+
+Feb 14 13:30:37 *	Now talking on #ebooks
+Feb 14 13:30:37 *	Topic for #ebooks is: No textbooks here, say @TEXTBOOKS for secret textbook site - You need DCC, so browser-based IRC clients won't work - New books: !trainpacks or @Oatmeal - Look for books with Offline - FAQ at http://ebooks.byethost6.com - Send new books to Oatmeal - Using mIRC? Type @sbclient
+Feb 14 13:30:37 *	Topic for #ebooks set by Ook!ook@only.ook (Tue Feb 14 12:37:49 2023)
+Feb 14 13:30:37 -ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
+Feb 14 13:30:52 *	venit (venit@ihw-csk.utf.233.194.IP) has joined
+Feb 14 13:30:54 *	RS (s@ihw-jq4.u2l.8.78.IP) has joined
+Feb 14 13:30:54 <Knightraider>	!Ook Gail Z Martin - [Deadly Curiosities 04] - Inheritance (epub).rar  ::INFO:: 460KB ::HASH:: b28617e8fa1bf722
+Feb 14 13:30:56 <AlternaServ>	Alternative info, finally updated!� Type: @AlternaServ For My List Of: 2,358 Files � Slots: 5/5 � Queued: 0 � Speed: 0cps � Next: NOW � Served: 286 � List: Feb 7th � Search: ON � Mode: Normal �
+Feb 14 13:31:00 <Dumbledore>	Type @Dumbledore for my list of eBooks.
+Feb 14 13:31:00 <venit>	@search Interpretation Konstruktion Kultur
+Feb 14 13:31:01 *	Received a CTCP SLOTS 5 5 NOW 0 999 0 2358 15563210236 0 1675781540 766701 OmenServe v2.71 from AlternaServ (to #ebooks)
+Feb 14 13:31:03 <RS>	@find Atari 2600
+Feb 14 13:31:09 <Knightraider>	!Ook Gail Z Martin - [Deadly Curiosities] - Trifles and Folly 3 (retail) (epub).rar  ::INFO:: 688KB ::HASH:: 2714d1c1f8c4be9f
+Feb 14 13:31:10 *	kknd has quit (Connection closed)
+Feb 14 13:31:13 *	kknd (kknd@ihw-jo9f79.oiuk.rncj.4040.2600.IP) has joined
+Feb 14 13:31:38 <QuietSilence>	Type @QuietSilence to get the list of 85,866 files (237.48 GB). Updated on 09-24-2022 07:35:54. Description: 
+Feb 14 13:31:57 <Ice_Shrike>	@find Images of the Past
+Feb 14 13:32:02 <DV8>	± Type: @DV8 For My List Of: 322,046 Files ± Slots: 2/2 ± Queued: 0 ± Speed: 0cps ± Next: NOW ± Served: 446,978 ± List: Jan 28th ± Search: ON ± Mode: Servers Priority ±
+Feb 14 13:32:03 *	Received a CTCP SLOTS 2 2 NOW 0 999 0 322046 568234903093 1 1674945281 567366 OmenServe v2.71 from DV8 (to #ebooks)
+Feb 14 13:32:08 <bigbigbigbob>	!Ook Kirsten McCurran - Domestic Bliss- A Tale of Two Couples [MF] (mobi).rar 
+Feb 14 13:32:13 *	RS (s@ihw-jq4.u2l.8.78.IP) has left
+Feb 14 13:32:25 *	venit (venit@ihw-csk.utf.233.194.IP) has left ("Bye")
+Feb 14 13:32:32 *	destine (destine@ihw-73b2hf.skybroadband.com) has joined
+Feb 14 13:32:41 *	ashleyxnicole0125 (ashleyxnico@ihw-j0j49i.dc.cox.net) has joined
+Feb 14 13:32:42 *	Ice_Shrike has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 14 13:32:47 *	FelAbdelkade (FelAbdelka@ihw-tbi.30r.97.41.IP) has joined
+Feb 14 13:32:48 *	ashleyxn_ (ashleyxnico@ihw-j0j49i.dc.cox.net) has joined
+Feb 14 13:32:52 <FelAbdelkade>	@search Eliot Weinberger
+Feb 14 13:32:52 <destine>	@search richard dawkins
+Feb 14 13:32:54 *	itiswhoitis has quit (Quit: )
+Feb 14 13:33:05 <Pondering>	© Type: @Pondering For My List Of: 882,367 Files © Slots: 10/10 © Queued: 0 © Speed: 0cps © Next: NOW © Served: 52,700 © List: Feb 14th © Search: ON © Mode: Normal ©
+Feb 14 13:33:08 <hpmyself>	!DV8 Edward M Hallowell & John J Ratey - Driven to Distraction (Revised) (epub).rar  ::INFO::
+Feb 14 13:33:10 *	Received a CTCP SLOTS 10 10 NOW 0 999 0 882367 1251357838617 0 1676357576 19263 OmenServe v2.74 from Pondering (to #ebooks)
+Feb 14 13:33:17 *	Poznan (Poznan@ihw-i584cd.5lgr.o5th.0389.2804.IP) has joined
+Feb 14 13:33:21 *	RS (s@ihw-jq4.u2l.8.78.IP) has joined
+Feb 14 13:33:21 *	ghs397e (gis238@ihw-uss.ao7.206.134.IP) has joined
+Feb 14 13:33:25 *	venit (venit@ihw-csk.utf.233.194.IP) has joined
+Feb 14 13:33:29 <dny238>	 Type: @dny238 For My List Of: 4,609 Files  Slots: 2/2  Queued: 0  Speed: 0cps  Next: NOW  Served: 18,736  List: Feb 13th  Search: ON  Mode: Normal 
+Feb 14 13:33:31 <ghs397e>	@search titiou lecoq
+Feb 14 13:33:31 <venit>	@search Andreas Reckwitz
+Feb 14 13:33:34 *	Received a CTCP SLOTS 2 2 NOW 0 999 0 4609 43840240555 0 1676298815 80587 OmenServe v2.74 from dny238 (to #ebooks)
+Feb 14 13:33:39 <Poznan>	@search killerbowl
+Feb 14 13:33:39 <hpmyself>	@searchook delivered to distraction
+Feb 14 13:33:41 *	AsianViking has quit (Quit: Leaving)
+Feb 14 13:33:42 <RS>	@search atari
+Feb 14 13:33:42 *	donnchadh has quit (Quit: Leaving)
+Feb 14 13:33:44 *	Tore (Tore@ihw-g78.nlj.82.62.IP) has joined
+Feb 14 13:33:49 <destine>	@search Richard Dawkins
+Feb 14 13:33:56 <FelAbdelkade>	@search Eliot Weinberger
+Feb 14 13:33:58 <Poznan>	Faggot
+Feb 14 13:34:08 *	FelAbdelkade has quit (Quit: )
+Feb 14 13:34:16 *	dios has quit (Ping timeout: 121 seconds)
+Feb 14 13:34:18 *	ghs397e has quit (Quit: Leaving)
+Feb 14 13:34:23 *	yacoby has quit (Ping timeout: 121 seconds)
+Feb 14 13:34:24 <paul>	@search "ansible for devops"
+Feb 14 13:34:24 <dragnbreaker>	 Type: @dragnbreaker For My List Of: 139,038 Files  Slots: 2/2  Queued: 1  Speed: 0cps  Next: NOW  Served: 334,183  List: Jan 30th  Search: ON  Mode: Servers Priority 
+Feb 14 13:34:25 <marti>	@search Judea Pearl
+Feb 14 13:34:29 <Knightraider>	!Ook Gail Z Martin & Larry N Martin - [Shadow Council Archives - Joe Mack 01] - Cauldron (epub).rar  ::INFO:: 410KB ::HASH:: 8d9a582f2d46a30b
+Feb 14 13:34:29 *	Received a CTCP SLOTS 2 2 NOW 1 999 0 139038 189331525948 1 1675110179 762661 OmenServe v2.71 from dragnbreaker (to #ebooks)
+Feb 14 13:34:35 *	asdfaio3 (wsa\dlfhl@ihw-s6c.2do.148.37.IP) has joined
+Feb 14 13:34:39 <asdfaio3>	@search lucy ashe
+Feb 14 13:34:46 <destine>	@search Richard Dawkins 
+Feb 14 13:34:49 *	FelAbdelkader (FelAbdelka@ihw-tbi.30r.97.41.IP) has joined
+Feb 14 13:34:51 <Knightraider>	!Ook Gail Z Martin & Larry N Martin - Wasteland Marshals (epub).rar  ::INFO:: 466KB ::HASH:: 304360e6ba23b4ba
+Feb 14 13:34:53 <FelAbdelkader>	@search Eliot Weinberger
+Feb 14 13:34:56 *	destine has quit (Quit: )
+Feb 14 13:34:56 *	venit (venit@ihw-csk.utf.233.194.IP) has left ("Bye")
+Feb 14 13:35:04 <asdfaio3>	@search lucy ashe
+Feb 14 13:35:10 *	rtyjdgh (shrtiet@ihw-3pl.2hf.181.95.IP) has joined
+Feb 14 13:35:15 *	kknd has quit (Ping timeout: 121 seconds)
+Feb 14 13:35:15 *	jvr has quit (Ping timeout: 121 seconds)
+Feb 14 13:35:17 *	kknd (kknd@ihw-85236s.tljo.o8tb.fb90.2607.IP) has joined
+Feb 14 13:35:25 <peapod>	� Type: @peapod For My List Of: 605,118 Files � Slots: 20 � Queued: 0 � Speed: 629 KB/Sec � Next: NOW � Served: 131,688 � List: 02-12-2023 � Search: ON � Mode: Ser FWServerBot
+Feb 14 13:35:26 *	tfguygukhk has quit (Ping timeout: 121 seconds)
+Feb 14 13:35:30 *	Received a CTCP SLOTS 20 20 NOW 0 999 0 605118 1605898773500 1 1676220610 276319 FWServer ver 2071 from peapod (to #ebooks)
+Feb 14 13:35:31 *	hisuiIBMPower4 (hisui23000@ihw-3nk.jp6.32.58.IP) has joined
+Feb 14 13:35:38 *	RS (s@ihw-jq4.u2l.8.78.IP) has left
+Feb 14 13:35:40 <FelAbdelkader>	@searchook Eliot Weinberger
+Feb 14 13:35:42 <hpmyself>	@searchook delivered from distraction
+Feb 14 13:35:44 <cattina>	!Horla TheFirstDefier - Defiance of the Fall 2 - A LitRPG (epub).epub
+Feb 14 13:35:44 <cattina>	!Horla The First Defier & JF Brink - [Defiance of the Fall 01] - Defiance of the Fall (epub).epub
+Feb 14 13:35:52 *	Poznan has quit (Connection closed)
+Feb 14 13:35:52 *	yacoby (yacoby@ihw-vbs.5vc.167.37.IP) has joined
+Feb 14 13:35:52 <Knightraider>	!Ook Gail Z Martin & Larry N Martin - [Joe Mack 02] - Black Sun (epub).rar  ::INFO:: 249KB ::HASH:: 8daabad7e54e78f9
+Feb 14 13:36:00 <Dumbledore>	Type @Dumbledore for my list of eBooks.
+Feb 14 13:36:04 <asdfaio3>	@searchook lucy ashe
+Feb 14 13:36:12 *	venit (venit@ihw-csk.utf.233.194.IP) has joined
+Feb 14 13:36:15 *	zonkers5 (zonkers5@ihw-1ibgap.cable.teksavvy.com) has joined
+Feb 14 13:36:25 <venit>	@search Andreas Reckwitz
+Feb 14 13:36:26 *	TomRobinsonIO (TomRobinson@ihw-7m7.dtd.197.47.IP) has joined
+Feb 14 13:36:33 <asdfaio3>	!DeathCookie Lucy Ashe - Clara and Olivia.epub  ::INFO:: 2.9MB
+Feb 14 13:36:34 <Johnson>	!phoomphy Star Trek Adventures - Remnants (2018).pdf     ::INFO:: 5.46 MiB
+Feb 14 13:36:34 <Johnson>	!phoomphy Star Trek Adventures - Sciences Division (2018) (oef) (screen).pdf     ::INFO:: 12.48 MiB
+Feb 14 13:36:34 <Johnson>	!phoomphy Star Trek Adventures - Starfleet Personnel Form.pdf     ::INFO:: 90.87 KiB
+Feb 14 13:36:52 <asdfaio3>	@searchook Klara and the Sun
+Feb 14 13:36:58 <DV8>	± Type: @DV8 For My List Of: 322,046 Files ± Slots: 2/2 ± Queued: 0 ± Speed: 0cps ± Next: NOW ± Served: 446,979 ± List: Jan 28th ± Search: ON ± Mode: Servers Priority ±
+Feb 14 13:36:58 <LawdyServer>	[dlFilter] Are the responses to your requests getting lost in the crowd? Are your @find responses spread about? If you are using mIRC as your IRC client then download dlFilter version 2.13 from https://github.com/DukeLupus/dlFilter/ and make your time in #ebooks less stressful.
+Feb 14 13:37:03 *	Received a CTCP SLOTS 2 2 NOW 0 999 0 322046 568234903093 1 1674945281 567662 OmenServe v2.71 from DV8 (to #ebooks)
+Feb 14 13:37:05 <briee>	@search Maiya Ibrahim
+Feb 14 13:37:07 <hpmyself>	@searchook John Ratey
+Feb 14 13:37:13 *	bookdown (bookdown@ihw-tpt.5v5.235.110.IP) has joined
+Feb 14 13:37:23 <asdfaio3>	!Dumbledore Kazuo Ishiguro - Klara and the Sun (Retail).epub
+Feb 14 13:37:36 *	FelAbdelkader has quit (Quit: )
+Feb 14 13:37:49 *	venit (venit@ihw-csk.utf.233.194.IP) has left ("Bye")
+Feb 14 13:37:50 *	infrequent (infrequent@ihw-brl.uh3.202.185.IP) has joined
+Feb 14 13:37:52 <asdfaio3>	!Ook Lucy Ashe - Clara and Olivia.epub
+Feb 14 13:38:17 <asdfaio3>	!Ook Kazuo Ishiguro - Klara and the Sun (retail) (epub).rar 
+Feb 14 13:38:17 <briee>	@searchook Maiya Ibrahim 
+Feb 14 13:38:36 *	shrtiet has quit (Ping timeout: 121 seconds)
+Feb 14 13:38:40 *	R (R@ihw-jq4.u2l.8.78.IP) has joined
+Feb 14 13:38:50 <R>	@find Adventure: The Atari 2600 at the Dawn of Console Gaming
+Feb 14 13:38:50 <briee>	@search hannah kaner 
+Feb 14 13:38:58 <briee>	@searchook hannah kaner 
+Feb 14 13:39:06 *	venit (venit@ihw-csk.utf.233.194.IP) has joined
+Feb 14 13:39:14 <R>	@search Adventure: The Atari 2600 at the Dawn of Console Gaming
+Feb 14 13:39:14 <venit>	@search Das hybride Subjekt
+Feb 14 13:39:16 *	manwithhabits14 has quit (Ping timeout: 121 seconds)
+Feb 14 13:39:24 <dragnbreaker>	 Type: @dragnbreaker For My List Of: 139,038 Files  Slots: 2/2  Queued: 2  Speed: 0cps  Next: NOW  Served: 334,192  List: Jan 30th  Search: ON  Mode: Servers Priority 
+Feb 14 13:39:24 *	babi has quit (Connection closed)
+Feb 14 13:39:29 *	Received a CTCP SLOTS 2 2 NOW 2 999 0 139038 189331525948 1 1675110179 762961 OmenServe v2.71 from dragnbreaker (to #ebooks)
+Feb 14 13:39:30 *	babi (bobo@ihw-6mpfuj.mc.videotron.ca) has joined
+Feb 14 13:39:30 <cattina>	!Horla The Further Adventures of Sherlock Holmes - Dr Jekyll and Mr Holmes - Loren Estleman (retail) (mobi).mobi
+Feb 14 13:39:30 <cattina>	!Horla The Further Adventures of Sherlock Holmes - Murder at Sorrow's Crown - Steven Savile, Robert Greenberger (retail) (epub).epub
+Feb 14 13:39:30 <cattina>	!Horla The Further Adventures of Sherlock Holmes - Seance for a Vampire - Fred Saberhagen (retail) (epub).epub
+Feb 14 13:39:30 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Albino's Treasure - Stuart Douglas (retail) (epub).epub
+Feb 14 13:39:33 <briee>	!Ook Hannah Kaner - Godkiller (epub).rar 
+Feb 14 13:39:55 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Angel of the Opera - Sam Siciliano (retail) (epub).epub
+Feb 14 13:39:55 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Counterfeit Detective - Stuart Douglas (retail) (epub).epub
+Feb 14 13:39:55 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Devil's Promise - David Stuart Davies (azw3).azw3
+Feb 14 13:39:55 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Ectoplasmic Man - Daniel Stashower (v5.0) (epub).epub
+Feb 14 13:40:04 *	yacoby has quit (Ping timeout: 121 seconds)
+Feb 14 13:40:13 <hpmyself>	!DV8 Edward M Hallowell & John J Ratey - Driven to Distraction (Revised) (epub).rar  ::INFO::
+Feb 14 13:40:17 *	zonkers5 has quit (Ping timeout: 121 seconds)
+Feb 14 13:40:18 *	rb (friet@ihw-cra063.fixed.kpn.net) has joined
+Feb 14 13:40:23 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Giant Rat of Sumatra - Richard L Boyer (retail) (epub).epub
+Feb 14 13:40:23 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Grimswell Curse - Sam Siciliano (v5.0) (epub).epub
+Feb 14 13:40:23 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Haunting of Torre Abbey - Carole Bugge (2018 ed) (retail) (epub).epub
+Feb 14 13:40:23 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Man From Hell - Barrie Roberts (retail) (epub).epub
+Feb 14 13:40:31 *	TomRobinsonIO has quit (Ping timeout: 121 seconds)
+Feb 14 13:40:33 <peapod>	� Type: @peapod For My List Of: 605,118 Files � Slots: 20 � Queued: 0 � Speed: 629 KB/Sec � Next: NOW � Served: 131,688 � List: 02-12-2023 � Search: ON � Mode: Ser FWServerBot
+Feb 14 13:40:35 *	Received a CTCP SLOTS 20 20 NOW 0 999 0 605118 1605898773500 1 1676220610 276624 FWServer ver 2071 from peapod (to #ebooks)
+Feb 14 13:40:44 *	R (R@ihw-jq4.u2l.8.78.IP) has left
+Feb 14 13:40:44 *	venit (venit@ihw-csk.utf.233.194.IP) has left ("Bye")
+Feb 14 13:40:48 <PCplagueSrv>	Type @PCplagueSrv to get my LIST of mostly Science Fiction ebooks. Created on Tue Jun 28 20:51:39 2022.(31257 files) request using !PCplagueSrv NameOfFile where the ! letter is the first on the line. Using vPowerServe by vadi v2.03
+Feb 14 13:40:49 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Moonstone's Curse - Sam Siciliano (retail) (epub).epub
+Feb 14 13:40:49 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Ripper Legacy - David Stuart Davies (retail) (epub).epub
+Feb 14 13:40:49 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Seventh Bullet - Daniel D Victor (v5.0) (epub).epub
+Feb 14 13:40:49 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Stalwart Companions - H Paul Jeffers (retail) (epub).epub
+Feb 14 13:40:52 *	yacoby (yacoby@ihw-2j2gm5.abo.orange.fr) has joined
+Feb 14 13:40:52 <AlternaServ>	Alternative info, finally updated!� Type: @AlternaServ For My List Of: 2,358 Files � Slots: 5/5 � Queued: 0 � Speed: 0cps � Next: NOW � Served: 286 � List: Feb 7th � Search: ON � Mode: Normal �
+Feb 14 13:40:57 *	Received a CTCP SLOTS 5 5 NOW 0 999 0 2358 15563210236 0 1675781540 767301 OmenServe v2.71 from AlternaServ (to #ebooks)
+Feb 14 13:40:58 *	bookbookbook (bookbookboo@ihw-16m6ni.ip4.superloop.com) has joined
+Feb 14 13:41:00 <Dumbledore>	Type @Dumbledore for my list of eBooks.
+Feb 14 13:41:15 <Johnson>	!phoomphy GURPS 4e - Basic Set - Book 2 - Campaigns.pdf     ::INFO:: 102.43 MiB
+Feb 14 13:41:15 *	bookdown has quit (Ping timeout: 121 seconds)
+Feb 14 13:41:15 <Johnson>	!phoomphy GURPS 4e - Basic Set - Book 1 - Characters (65M).pdf     ::INFO:: 64.80 MiB
+Feb 14 13:41:28 <Johnson>	!phoomphy Star Trek Adventures - Remnants (2018).pdf     ::INFO:: 5.46 MiB
+Feb 14 13:41:33 <Knightraider>	!Ook Gail Z Martin & Larry N Martin - Spellbound (epub).rar  ::INFO:: 283KB ::HASH:: 974c4d6073f11067
+Feb 14 13:41:40 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Star of India - Carole Bugge (retail) (epub).epub
+Feb 14 13:41:40 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The War of the Worlds - Manly W and Wade Wellman (v5.0) (epub).epub
+Feb 14 13:41:40 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The Whitechapel Horrors - Edward B Hanna (epub).epub
+Feb 14 13:41:40 <cattina>	!Horla The Further Adventures of Sherlock Holmes - The White Worm - Sam Siciliano (retail) (epub).epub
+Feb 14 13:41:41 <hpmyself>	!Ook Edward M Hallowell & John J Ratey - Driven to Distraction (Revised) (epub).rar  ::INFO:: 2MB ::HASH:: 2ba479c8517b5e71
+Feb 14 13:41:49 *	manwithhabits14 (manwithhabi@ihw-hb9.dle.244.143.IP) has joined
+Feb 14 13:41:58 *	sugarstorm (sugarstorm@ihw-r8u6na.il.comcast.net) has joined
+Feb 14 13:42:04 *	venit (venit@ihw-csk.utf.233.194.IP) has joined
+Feb 14 13:42:09 <cattina>	!Horla The Further Adventures of Sherlock Holme - The Peerless Peer - Philip Jose Farmer (v5.0) (epub).epub
+Feb 14 13:42:09 <cattina>	!Horla The Further Adventures of Sherlock Holmew - The Titanic Tragedy - William Seil (epub).epub
+Feb 14 13:42:09 <venit>	@search Andreas Reckwitz
+Feb 14 13:42:24 <DV8>	± Type: @DV8 For My List Of: 322,046 Files ± Slots: 2/2 ± Queued: 0 ± Speed: 0cps ± Next: NOW ± Served: 446,979 ± List: Jan 28th ± Search: ON ± Mode: Servers Priority ±
+Feb 14 13:42:28 *	Received a CTCP SLOTS 2 2 NOW 0 999 0 322046 568234903093 1 1674945281 567988 OmenServe v2.71 from DV8 (to #ebooks)
+Feb 14 13:42:31 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Tue Feb 14 13:42:31 2023
+
