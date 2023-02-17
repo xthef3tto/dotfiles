@@ -1,0 +1,14 @@
+chromium/
+Code - OSS/
+!Code - OSS/User/settings.json
+dconf/
+Electron/
+gtk-2.0/
+gtk-3.0/
+hexchat/
+htop/
+pulse/
+Thunar/
+weechat/
+xfce4/
+yay/
