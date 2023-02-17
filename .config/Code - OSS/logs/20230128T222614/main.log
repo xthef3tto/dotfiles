@@ -1,4 +1,0 @@
-2023-01-28 22:26:14.470 [info] update#ctor - updates are disabled as there is no update URL
-2023-01-28 22:26:15.833 [info] Starting extension host with pid 2951 (fork() took 10 ms).
-2023-01-28 22:26:32.169 [info] Waiting for extension host with pid 2951 to exit.
-2023-01-28 22:26:32.174 [info] Extension host with pid 2951 exited with code: 0, signal: null.

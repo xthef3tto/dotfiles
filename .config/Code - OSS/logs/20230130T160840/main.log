@@ -1,4 +1,0 @@
-2023-01-30 16:08:40.394 [info] update#ctor - updates are disabled as there is no update URL
-2023-01-30 16:08:41.528 [info] Starting extension host with pid 6401 (fork() took 12 ms).
-2023-01-30 16:08:55.370 [info] Waiting for extension host with pid 6401 to exit.
-2023-01-30 16:08:55.375 [info] Extension host with pid 6401 exited with code: 0, signal: null.

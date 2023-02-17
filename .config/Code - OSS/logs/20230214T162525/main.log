@@ -1,4 +1,0 @@
-2023-02-14 16:25:25.842 [info] update#ctor - updates are disabled as there is no update URL
-2023-02-14 16:25:27.105 [info] Starting extension host with pid 5510 (fork() took 8 ms).
-2023-02-14 16:25:51.510 [info] Waiting for extension host with pid 5510 to exit.
-2023-02-14 16:25:51.516 [info] Extension host with pid 5510 exited with code: 0, signal: null.

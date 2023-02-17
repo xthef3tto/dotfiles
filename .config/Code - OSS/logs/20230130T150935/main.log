@@ -1,4 +1,0 @@
-2023-01-30 15:09:35.905 [info] update#ctor - updates are disabled as there is no update URL
-2023-01-30 15:09:37.230 [info] Starting extension host with pid 4449 (fork() took 8 ms).
-2023-01-30 15:17:57.257 [info] Extension host with pid 4449 exited with code: 0, signal: null.
-2023-01-30 15:17:57.261 [info] Waiting for extension host with pid 4449 to exit.

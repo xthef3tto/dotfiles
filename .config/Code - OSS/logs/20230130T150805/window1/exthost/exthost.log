@@ -1,9 +1,0 @@
-2023-01-30 15:08:08.017 [info] Extension host with pid 3900 started
-2023-01-30 15:08:08.181 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
-2023-01-30 15:08:08.192 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2023-01-30 15:08:08.214 [info] Eager extensions activated
-2023-01-30 15:08:08.220 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2023-01-30 15:08:08.220 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
-2023-01-30 15:08:08.220 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2023-01-30 15:08:10.778 [info] Extension host terminating: received terminate message from renderer
-2023-01-30 15:08:10.780 [info] Extension host with pid 3900 exiting with code 0
